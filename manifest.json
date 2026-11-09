@@ -1,0 +1,9 @@
+{
+  "id": "skills",
+  "name": "Skills",
+  "version": "0.1.0",
+  "description": "Import skill .md files (Claude/ZCode SKILL.md compatible) and make them available to the agent: a short index in its instructions, full text loaded on demand via the skills__read tool.",
+  "abi": 2,
+  "permissions": ["storage", "events", "tools"],
+  "frontend": { "entry": "frontend.js" }
+}
