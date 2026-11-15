@@ -3,6 +3,7 @@
   "version": "0.3.1",
   "private": true,
   "description": "Skills feature plugin for the Companion app: import skill .md files and expose them to the agent (index in the system prompt + skills__read tool).",
+  "author": "Companion Lab",
   "dependencies": {
     "@companion-lab/plugin": "^0.3.0"
   }
